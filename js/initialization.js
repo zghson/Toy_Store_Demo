@@ -571,11 +571,11 @@ function createAdminAccount() {
     if (!accounts) {
         accounts = [];
         accounts.push({
-            fullname: "Hoàng Gia Bảo",
-            phone: "hgbaodev",
+            fullname: "Nguyễn Hoàng Sơn",
+            phone: "hoangson",
             password: "123456",
-            address: 'https://github.com/hgbaodev',
-            email: 'musicanime2501@gmail.com',
+            address: '',
+            email: 'zghson0611@gmail.com',
             status: 1,
             join: new Date(),
             cart: [],
