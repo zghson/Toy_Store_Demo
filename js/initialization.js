@@ -6,7 +6,7 @@ function createProduct() {
             status: 1, 
             title: 'Công Nghệ 1',
             img: 'D:\toy_strore_Demo\images\công nghệ\congnghe (1).webp',
-            category: 'Món mặn',
+            category: 'Công nghệ',
             price: 200000,
             desc: 'Một Món chay ngon miệng với nấm đùi gà thái chân hương, xào săn với lửa và thật nhiều tỏi băm, nêm nếm với mắm và nước tương chay, món ngon đưa cơm và rất dễ ăn cả cho người lớn và trẻ nhỏ.'
         },
